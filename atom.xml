@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suzhousip.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-21T01:55:56.145Z</updated>
+    <updated>2021-01-21T02:00:46.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suzhousip.github.io"/>
     <link rel="self" href="https://suzhousip.github.io/atom.xml"/>
@@ -11,35 +11,16 @@
     <icon>https://suzhousip.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[2020年失业是一种什么体验?]]></title>
         <id>https://suzhousip.github.io/post/hello-gridea/</id>
         <link href="https://suzhousip.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>作者：知乎用户<br>
+链接：https://www.zhihu.com/question/356906059/answer/1062174287<br>
+来源：知乎<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>昨天刚过完37周岁生日，一月上旬就已经被HR通知走人，其实自打我进这家公司那天起我就知道不可能在这里长做，公司是做餐饮管理的，小到所有部门一共加起来20个人左右，每周一开晨会，唱励志歌——汪峰的怒放的生命，然后播放公司文化，再然后让大家每人手捧一本弟子规诵读几段，什么“长者先，幼者后，长呼人，即代叫”，念完了还不算，还要找个人解释某一段的意思，然后个人分享感受……一整套操作搞完，已经TM十点半了……low到地心有没有？？我入职的时候刚好是个礼拜一，有幸经历了一下这个场面，当时我的内心OS就是——我去年买了个表，超耐磨。小公司做事风格之奇葩我就不赘述了，我在进公司一个多月的时间里，把原本混乱的工作流程，资料，设计文件存档全部整理的井井有条，而公司此时已经到了根本没有预算容纳两位设计师的地步，一个月后的一个礼拜二，HR把我叫到玻璃房的时候，我就知道套路开始了，果不其然，说什么不合适之类的台面话，我面带微笑看着这位眼角满是皱纹的女人，问她说工作跟谁交接，是否当天能走(当时归心似箭)，后来协商说做到周末，我真的算仁至义尽，最后三天我仍然把我所有的工作清晰归档，让接手工作的同事能够一目了然。当时的想法就是觉得反正公司一没资金二没实力，而我也想去更大更好的平台，那大家倒不如相互成全。走人之后我就打算先安心过个年，跟微信里的猎头聊一下，基本2月能搞定新工作，后来发生的事情始料未及，我一看这样情况，行吧，启动B计划，因为自己的储蓄在理财里没到期，就先问家人借了一笔钱，大约十万元，确保到年底不会影响正常生活，然后专心做一些业务提升，因为我清楚自己的长处和短处，也知道自己应该去什么样的平台，所以不如耐心等一个适合的机会。</p>
 ]]></content>
     </entry>
 </feed>
